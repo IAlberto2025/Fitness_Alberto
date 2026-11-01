@@ -1,0 +1,22 @@
+ALBERTO FITNESS — primera versión
+
+CONTENIDO
+- index.html: aplicación
+- manifest.json: configuración de instalación
+- sw.js: caché básica para uso sin conexión tras la primera carga
+
+IMPORTANTE
+Esta versión guarda registros en el almacenamiento local del navegador del dispositivo.
+No sincroniza automáticamente entre iPhone y ordenador. Si borras los datos del navegador, podrías perder los registros.
+La instalación como PWA en iPhone requiere publicar estos archivos en un sitio con HTTPS.
+
+INSTALACIÓN EN IPHONE
+1. Publica la carpeta en un alojamiento HTTPS (por ejemplo, GitHub Pages).
+2. Abre la dirección publicada en Safari.
+3. Pulsa Compartir > Añadir a pantalla de inicio.
+4. Abre Alberto Fitness desde el nuevo icono.
+
+NOTAS DE SALUD
+Los objetivos de calorías y macronutrientes son estimaciones iniciales, no prescripción médica.
+La vitamina D3 queda pendiente de verificar: 2.000 UI = 50 µg; 200 µg = 8.000 UI.
+No usar la app para sustituir consejo médico.
