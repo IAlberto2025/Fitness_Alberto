@@ -1,0 +1,16 @@
+ALBERTO FITNESS — versión 3
+
+NOVEDADES
+- En Entrenamientos > Registrar una sesión, el campo Ejercicio ahora es un desplegable.
+- Los ejercicios básicos están ordenados alfabéticamente.
+- Incluye “Otro ejercicio (escribir nombre)” para ejercicios que no estén en la lista.
+- Se mantienen las opciones de editar y eliminar registros.
+- Los registros existentes se conservan en el mismo almacenamiento local del navegador.
+
+INSTALACIÓN / ACTUALIZACIÓN EN IPHONE
+Sustituye los archivos publicados por los de esta versión en el mismo alojamiento HTTPS.
+Después abre la aplicación en Safari y recarga. Si sigue apareciendo la versión anterior, cierra la app y vuelve a abrirla o elimina los datos de caché del sitio (no borres los datos del sitio si quieres conservar registros locales).
+La aplicación guarda los registros en el almacenamiento local del navegador; no tiene sincronización en la nube.
+
+NOTA
+Los objetivos nutricionales son orientativos. La vitamina D3 sigue pendiente de verificar con la etiqueta y un profesional sanitario.
